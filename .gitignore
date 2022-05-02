@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # ignore the lab datas
-test/
-train/
+original_data/
