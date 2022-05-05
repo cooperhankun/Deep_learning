@@ -130,3 +130,5 @@ dmypy.json
 
 # ignore the lab datas
 original_data/
+experiment_small_data/
+experiment_tiny_data/
