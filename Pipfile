@@ -11,6 +11,10 @@ seaborn = "*"
 tensorflow = "*"
 ipykernel = "*"
 black = "*"
+nltk = "*"
+affinda = "*"
+sqlalchemy = "*"
+pyodbc = "*"
 
 [dev-packages]
 
