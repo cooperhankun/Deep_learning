@@ -132,3 +132,5 @@ dmypy.json
 original_data/
 experiment_small_data/
 experiment_tiny_data/
+cetasol_aug/cetasol_agu_july
+saved_model/rfr.pickle
